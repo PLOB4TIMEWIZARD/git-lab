@@ -46,3 +46,7 @@ Date:   Wed Jan 22 19:21:08 2025 -0500
 
     initial commit
 Answer 9: repository works
+Answer 10: no
+answer 11: it asks for a username
+answer 12: yes
+answer 13: .  ..  .git  .gitignore  README.md
